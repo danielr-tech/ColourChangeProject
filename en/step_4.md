@@ -94,6 +94,7 @@ Most importantly in your case, they can also be colours.
 --- task ---
 
 Add parameters for the first and second colour in your tool.
+TODO: Add an image of the tool (with both options for choosing colours).
 
 --- hints ---
 

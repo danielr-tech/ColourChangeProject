@@ -50,7 +50,7 @@ ImageRecolor[myImage, <first colour> -> <second colour>]
 
 ```
 
-![Pencils recoloured manually](images/PencilsRecoloured1.png)
+![Pencils recoloured manually](images/PencilsRecolour1.png)
 
 --- /task ---
 
