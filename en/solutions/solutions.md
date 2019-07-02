@@ -2,7 +2,7 @@
 
 Find and name an image:
 
-![Pencils, named](images/myImagePencils.png)
+![Pencils, named](../images/myImagePencils.png)
 
 Choose a colour in the image (e.g. Green) and change it to another colour (e.g. Blue):
 
@@ -20,7 +20,7 @@ chosenColour = DominantColors[myImage][[5]];
 ImageRecolor[myImage, chosenColour -> Purple]
 ```
 
-![Pencils recoloured by dominant colours](images/PencilsRecolour2.png)
+![Pencils recoloured by dominant colours](../images/PencilsRecolour2.png)
 
 
 ## Choosing a tolerance
@@ -51,7 +51,7 @@ Manipulate[
 ]
 ```
 
-![Pencil Manipulate 1](images/PencilManipulate1.png)
+![Pencil Manipulate 1](../images/PencilManipulate1.png)
 
 Add parameters for the first and second colour in the tool:
 
@@ -67,7 +67,7 @@ Manipulate[
 ]
 ```
 
-![Pencil Manipulate 2](images/PencilManipulate2.png)
+![Pencil Manipulate 2](../images/PencilManipulate2.png)
 
 
 ## Challenges
@@ -108,4 +108,4 @@ imageRecolouring[image_, numberOfColours_] :=
     ]
 ```
 
-![Colouring function](images/ColouringFunction.png)
+![Colouring function](../images/ColouringFunction.png)
