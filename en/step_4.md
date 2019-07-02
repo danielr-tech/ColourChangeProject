@@ -124,7 +124,7 @@ Click and drag your mouse over the rainbow-coloured palette to choose any colour
 
 --- hint ---
 
-Here's the full code.
+Here's the full code. A number of settings have been chosen for you:
 
 + The tolerance parameter goes from 0.1 to 1 in steps of 0.1.
 + For the first colour parameter, the dominant colours from the image are used as a list of colours to choose from.
