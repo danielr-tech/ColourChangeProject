@@ -37,8 +37,6 @@ ImageRecolor[
 
 ## Creating a tool
 
---- task ---
-
 Use `Manipulate` to change the tolerance level:
 
 ```
@@ -108,4 +106,4 @@ imageRecolouring[image_, numberOfColours_] :=
     ]
 ```
 
-![Colouring function](../images/ColouringFunction.png)
+![Pencil Manipulate 3](../images/PencilManipulate3.png)
