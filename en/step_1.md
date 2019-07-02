@@ -1,4 +1,4 @@
-## Colour extraction
+## Introduction
 
 In this project, you will use the Wolfram Language to recolour parts of an image.
 

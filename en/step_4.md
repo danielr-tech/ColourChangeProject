@@ -75,15 +75,15 @@ Use `Manipulate` to change the tolerance level.
 
 ```
 Manipulate[
-ImageRecolor[
-myImage,
-ColorsNear[<first colour>, tolerance] -> <second colour>
-],
-{tolerance, <min>, <max>, <step>}
+    ImageRecolor[
+        myImage,
+        ColorsNear[<first colour>, tolerance] -> <second colour>
+    ],
+    {tolerance, <min>, <max>, <step>}
 ]
 ```
 
-![Pencil Manipulate (i)](images/PencilManipulate1.png)
+![Pencil Manipulate 1](images/PencilManipulate1.png)
 
 --- /task ---
 
@@ -94,7 +94,8 @@ Most importantly in your case, they can also be colours.
 --- task ---
 
 Add parameters for the first and second colour in your tool.
-TODO: Add an image of the tool (with both options for choosing colours).
+
+![Pencil Manipulate 2](images/PencilManipulate2.png)
 
 --- hints ---
 
@@ -131,13 +132,13 @@ Here's the full code.
 
 ```
 Manipulate[
-ImageRecolor[
-myImage,
-ColorsNear[colour1, tolerance] -> colour2
-],
-{tolerance, 0.1, 1, 0.1},
-{colour1, DominantColors[myImage]},
-{colour2, Blue}
+    ImageRecolor[
+        myImage,
+        ColorsNear[colour1, tolerance] -> colour2
+    ],
+    {tolerance, 0.1, 1, 0.1},
+    {colour1, DominantColors[myImage]},
+    {colour2, Blue}
 ]
 ```
 

@@ -8,8 +8,8 @@ Use `ColorsNear` to set a tolerance level. (Try something small like 0.1.)
 
 ```
 ImageRecolor[
-myImage,
-ColorsNear[<first colour>, <tolerance>] -> <second colour>
+    myImage,
+    ColorsNear[<first colour>, <tolerance>] -> <second colour>
 ]
 ```
 
