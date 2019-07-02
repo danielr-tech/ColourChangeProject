@@ -10,7 +10,7 @@ Choose a colour in the image (e.g. Green) and change it to another colour (e.g. 
 ImageRecolor[myImage, Green -> Blue]
 ```
 
-![Pencils recoloured manually](en/images/PencilsRecolour1.png)
+![Pencils recoloured manually](../images/PencilsRecolour1.png)
 
 Find the dominant colours in the image. Choose one and change that colour:
 
