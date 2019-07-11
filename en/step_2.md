@@ -13,9 +13,11 @@ To start, you will pick a colour from an image and switch it with another colour
 Find an image and drag it into your notebook.
 Your image should be fairly simple, with bright colours.
 
-Here is an image of pencils you can use:
+Alternatively, evaluate the following code to get an example image.
 
-![Pencils](images/Pencils.png)
+```
+CloudGet["https://www.wolframcloud.com/obj/RasPi/Pencils"]
+```
 
 --- /task ---
 
