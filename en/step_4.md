@@ -83,7 +83,7 @@ Manipulate[
 ]
 ```
 
-![Pencil Manipulate 1](images/PencilManipulate1.png)
+![Pencil Manipulate 1](images/PencilManipulate1.gif)
 
 --- /task ---
 
@@ -95,7 +95,7 @@ Most importantly in your case, they can also be colours.
 
 Add parameters for the first and second colour in your tool.
 
-![Pencil Manipulate 2](images/PencilManipulate2.png)
+![Pencil Manipulate 2](images/PencilManipulate2.gif)
 
 --- hints ---
 
