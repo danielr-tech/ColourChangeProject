@@ -23,13 +23,7 @@ CloudGet["https://www.wolframcloud.com/obj/RasPi/Pencils"]
 
 --- task ---
 
-Give your image a name, such as `myImage`, and evaluate it.
-
-```
-myImage = <your image>
-```
-
-Add a semicolon (`;`) after the image (and reevaluate) to hide the output.
+Give your image a name, such as `myImage`. Follow it with a semicolon (`;`) to hide the output and evaluate it.
 
 ```
 myImage = <your image>;
